@@ -1,0 +1,30 @@
+h2 {
+  text-align: center;
+  color: blue;
+}
+
+p {
+  width: 80%;
+}
+
+.delete {
+  margin-right: 5px;
+}
+
+.mark-complete {
+  align-self: center;
+  margin-left: 5px;
+}
+
+.new {
+  width: 80%;
+  margin-top: 25px;
+}
+
+#todo-list {
+  margin: auto;
+}
+
+.col-12 {
+  justify-content: center;
+}
