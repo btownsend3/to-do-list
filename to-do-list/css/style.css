@@ -28,3 +28,7 @@ p {
 .col-12 {
   justify-content: center;
 }
+
+.buttons {
+  width: 80%;
+}
